@@ -1,0 +1,25 @@
+.custcard{
+ height: 470px !important;
+}
+h5{
+    font-size: 13px;
+    height: 50px !important;
+    
+    overflow: hidden;
+    line-height: 1.5 !important;
+    
+}
+.img{
+    height: 170px;
+    padding: 5%;
+}
+.des-div{
+    height: 140px;
+    overflow: hidden;
+    padding: 5%;
+    position: relative;
+}
+
+p{
+    text-overflow: ellipsis;
+}
